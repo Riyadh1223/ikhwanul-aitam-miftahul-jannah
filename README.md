@@ -1,8 +1,8 @@
-# Portfolio - Hafiz Aryan Siregar
+# Portfolio - Ikhwanul Aitam Miftahul Jannah
 
-## About Me
+## About Us
 
-I am a final year student with experience in Web Development and Software Testing. I have experience in PHP Framework, JavaScript, SQL, and Google Cloud.
+Organisasi Alumni Payp Miftahul Jannah
 
 ## Portfolio Features
 
